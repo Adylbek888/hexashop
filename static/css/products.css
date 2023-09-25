@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.product {
+    display: inline-block;
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.product img {
+width: 350px;
+height: 400px;
+object-fit: cover;
+margin-bottom: 10px;
+}
+
+.products {
+    margin-top: 100px;
+   
+}
+
+.products .row {
+    margin-left: 170px;
+}
