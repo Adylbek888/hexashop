@@ -1,1 +1,5 @@
-ÿþ
+1. Django
+1. Django-framework 
+3. django-restframework
+4. django-rest-knox
+5. Serializers
